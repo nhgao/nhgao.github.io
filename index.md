@@ -7,8 +7,7 @@ btw，我的专业是微分几何、几何分析。
 * [关于 PSC 的一些直观想法](./geometry-notes/psc-intuition.md)
 
 ### 拓扑
-* [黎曼几何基础笔记](./notes/riemannian-geometry.md)
-* [关于 PSC 的一些直观想法](./notes/psc-intuition.md)
+(./topology/)
 
 ### 分析
 * **1：** 123213
