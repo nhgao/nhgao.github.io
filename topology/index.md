@@ -1,8 +1,4 @@
----
-layout: page
-title: 拓扑学 (Topology)
----
-
+# 拓扑学 (Topology)
 
 
 #### 这是 Novikov 写过的一篇关于20世纪拓扑学的文章。
