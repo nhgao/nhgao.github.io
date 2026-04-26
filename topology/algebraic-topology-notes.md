@@ -1,8 +1,3 @@
----
-layout: page
-title: Algebraic Topology Notes
----
-
 <style>
   /* 强制隐藏整个页眉区域，不管主题怎么设置 */
   .site-header {
