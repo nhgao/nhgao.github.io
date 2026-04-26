@@ -1,22 +1,19 @@
-这里将陆续上传我的笔记，他们是关于数学的，主要是几何方面。最初，我在overleaf上记笔记，但随着笔记越来越多，overleaf项目式扁平式的管理规则越来越不适合，文件实在是太多也太杂乱了，我希望找一个地方把它们存起来，因此有了这个网站。
+Welcome. 
 
-Welcome to my Homepage. 
+I received my Bachelor's degree in 2023 from the **Hua Loo-keng Class** at **Dalian University of Technology**. I am currently a Master's student at **Beijing Normal University**, expecting to graduate in 2026. 
 
-btw，我的专业是微分几何、几何分析。
+My research interests lie in **Differential Geometry** and **Geometric Analysis**. This website serves as a repository for my personal study notes and is not intended for formal academic publication.
 
-### [几何](./geometry/)
+### [几何（Geometry）](./geometry/)
 
-### [拓扑](./topology/)
+### [拓扑（Topology）](./topology/)
 
-### 分析
-
+### [分析（Analysis）](./analysis/)
 
 ### 代数
 
-
 ### 超出数学知识的数学问题
 这些是超出一般的数学知识的问题，但我还没有信心称其为数学哲学。
-
 
 ### 英语和日语
 
