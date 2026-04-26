@@ -4,4 +4,4 @@ title: Geometry
 ---
 
 ## Geometry
-* [Articles of Chenweihuan](./chenweihuan-articles.pdf)
+* [Articles of Chenweihuan](geometry/chenweihuan-articles.pdf)
