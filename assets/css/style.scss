@@ -1,0 +1,30 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* 这里开始修正你的审美逻辑 */
+
+/* 1. 全局隐藏那个巨大的蓝色页眉（如果你想全站隐藏） */
+.site-header {
+  border-top: none !important;
+  border-bottom: 1px solid #eee !important;
+  min-height: 0 !important;
+}
+
+.site-title, .site-title:visited {
+  color: #333 !important; /* 变成冷静的黑色 */
+  font-size: 16px !important; /* 缩小到正常字号 */
+  font-weight: 300 !important;
+}
+
+/* 2. 让正文使用更具学术质感的衬线字体 */
+body {
+  font-family: "Charter", "Georgia", "Times New Roman", serif !important;
+  line-height: 1.7;
+}
+
+/* 3. 限制正文宽度，防止在大屏幕上横向拉伸得太难看 */
+.wrapper {
+  max-width: 800px !important;
+  margin: 0 auto !important;
+}
