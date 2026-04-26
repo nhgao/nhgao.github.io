@@ -1,3 +1,4 @@
+---
 Welcome. 
 
 I received my Bachelor's degree in 2023 from the **Hua Loo-keng Class** at **Dalian University of Technology**. I am currently a Master's student at **Beijing Normal University**, expecting to graduate in 2026. 
