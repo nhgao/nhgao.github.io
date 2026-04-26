@@ -1,3 +1,8 @@
+---
+layout: page
+title: Algebraic Topology Notes
+---
+
 ## Topology
 
 * [Sergei Novikov: Topology in the 20th Century](./Novikov-topology20thcentury.pdf)
