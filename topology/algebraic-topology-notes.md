@@ -1,3 +1,15 @@
+<style>
+  /* 隐藏页眉（包括你的名字和导航栏） */
+  .site-header {
+    display: none;
+  }
+
+  /* 调整正文顶部的间距，防止内容太靠上 */
+  .page-content {
+    padding-top: 50px;
+  }
+</style>
+
 ---
 layout: page
 title: Algebraic Topology Notes
