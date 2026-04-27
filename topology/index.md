@@ -11,3 +11,5 @@ title: Algebraic Topology Notes
 * [Algebraic Topology Notes](./algebraic-topology-notes.md)
 > My personal notes and review on algebraic topology.
 
+* [Set Topology Notes](./set-topology-notes.md)
+> My personal notes and review on algebraic topology.
