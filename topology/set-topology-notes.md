@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Algebraic Topology Notes
+title: Set Topology Notes
 ---
 
 # Topology Notes
